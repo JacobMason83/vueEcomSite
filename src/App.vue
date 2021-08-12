@@ -1,7 +1,7 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <h1>hI rom my new app </h1>
+  
   </div>
   <router-view />
 </template>
